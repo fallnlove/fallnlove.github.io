@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation\" paper presentation"
+title: '"Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation" paper presentation'
 date: 2025-09-09
 permalink: /talks/bayes-twinest/
 # Optional metadata
@@ -14,4 +14,4 @@ video: https://youtu.be/e9RBvASLrN0
 website:
 ---
 
-Presentation (on russian) of my paper "Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation" on [BayesGroup](https://bayesgroup.org) seminar.
+The paper "Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation" was presented at the [BayesGroup](https://bayesgroup.org) seminar.
