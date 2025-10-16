@@ -27,5 +27,6 @@ latest_posts:
 Hello! I am currently pursuing my undergraduate degree in applied mathematics and computer science at [HSE University](https://www.hse.ru/en/). I also work as a Research Assistant in the [HDI Lab](https://cs.hse.ru/en/iai/hdilab/).
 
 My research interests:
+
 - Numerical linear algebra, with a focus on randomized methods
 - Generative flow networks (GFlowNets)
