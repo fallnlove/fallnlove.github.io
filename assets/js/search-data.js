@@ -55,11 +55,11 @@ ninja.data = [{
       },{id: "news-the-paper-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-was-accepted-at-tasc-workshop-at-colt-2025",
           title: 'The paper “Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation” was accepted at TASC Workshop...',
           description: "",
-          section: "News",},{id: "talks-quot-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-quot-paper-presentation",
-          title: '&amp;quot;Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation&amp;quot; paper presentation',
+          section: "News",},{id: "talks-",
+          title: '',
           description: "",
           section: "Talks",handler: () => {
-              window.location.href = "/talks/bayes-twinest/";
+              window.location.href = "/talks/bayes_twinest/";
             },},{
         id: 'social-email',
         title: 'email',
