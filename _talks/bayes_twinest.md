@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation" paper presentation'
+title: '"Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation" paper presentation' [in Russian]
 date: 2025-09-09
 permalink: /talks/bayes-twinest/
 # Optional metadata
