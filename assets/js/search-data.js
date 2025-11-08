@@ -52,8 +52,11 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-the-paper-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-was-accepted-at-tasc-workshop-at-colt-2025",
-          title: 'The paper “Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation” was accepted at TASC Workshop...',
+      },{id: "news-the-paper-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-was-presented-at-tasc-workshop-at-colt-2025",
+          title: 'The paper “Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation” was presented at TASC Workshop...',
+          description: "",
+          section: "News",},{id: "news-the-paper-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-was-accepted-at-aaai-2026",
+          title: 'The paper “Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation” was accepted at AAAI 2026....',
           description: "",
           section: "News",},{id: "talks-quot-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-quot-paper-presentation-in-russian",
           title: '&amp;quot;Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation&amp;quot; paper presentation [in Russian]',
