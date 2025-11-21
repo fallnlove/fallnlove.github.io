@@ -41,22 +41,14 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "news-the-paper-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-was-presented-at-tasc-workshop-at-colt-2025",
           title: 'The paper “Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation” was presented at TASC Workshop...',
           description: "",
           section: "News",},{id: "news-the-paper-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-was-accepted-at-aaai-2026",
           title: 'The paper “Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation” was accepted at AAAI 2026....',
+          description: "",
+          section: "News",},{id: "news-thrilled-to-announce-that-we-ve-released-a-new-jax-based-library-for-generative-flow-networks-gfnx-see-our-github-repo-and-paper-on-arxiv",
+          title: 'Thrilled to announce that we’ve released a new JAX-based library for Generative Flow...',
           description: "",
           section: "News",},{id: "talks-quot-matrix-free-two-to-infinity-and-one-to-two-norms-estimation-quot-paper-presentation-in-russian",
           title: '&amp;quot;Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation&amp;quot; paper presentation [in Russian]',
