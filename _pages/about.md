@@ -29,4 +29,5 @@ Hello! I am currently pursuing my undergraduate degree in applied mathematics an
 My research interests:
 
 - Numerical linear algebra, with a focus on randomized methods
+- Zeroth-Order optimization for LLM fine-tuning
 - Generative flow networks (GFlowNets)

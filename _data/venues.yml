@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NeurIPS":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AAAI":
+  color: "#eb445f"
 
-"Vision":
-  color: "#009f36"
+"arXiv":
+  color: "#ff8652"
+
+"ICML":
+  color: "#267856"
