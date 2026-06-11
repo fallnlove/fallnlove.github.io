@@ -9,3 +9,12 @@
 
 "ICML":
   color: "#267856"
+
+"KDD":
+  color: "#8e44ad"
+
+"ICLR":
+  color: "#c0392b"
+
+"ICLR Blogposts":
+  color: "#c0392b"
