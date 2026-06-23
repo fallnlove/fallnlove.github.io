@@ -809,14 +809,12 @@ footer.sticky-bottom {
           border-color: var(--global-highlight-color);
         }
         a.oral.btn {
-          color: #fff;
-          background-color: #dc3545;
+          color: var(--global-text-color);
           border-color: #dc3545;
 
           &:hover {
-            color: #fff;
-            background-color: #c82333;
-            border-color: #bd2130;
+            color: #dc3545;
+            border-color: #dc3545;
           }
         }
       }
@@ -903,14 +901,12 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
     a.oral.btn {
-      color: #fff;
-      background-color: #dc3545;
+      color: var(--global-text-color);
       border-color: #dc3545;
 
       &:hover {
-        color: #fff;
-        background-color: #c82333;
-        border-color: #bd2130;
+        color: #dc3545;
+        border-color: #dc3545;
       }
     }
   }
