@@ -808,6 +808,17 @@ footer.sticky-bottom {
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
+        a.oral.btn {
+          color: #fff;
+          background-color: #dc3545;
+          border-color: #dc3545;
+
+          &:hover {
+            color: #fff;
+            background-color: #c82333;
+            border-color: #bd2130;
+          }
+        }
       }
 
       .badges {
@@ -890,6 +901,17 @@ footer.sticky-bottom {
     }
     a.award.btn {
       border-color: var(--global-highlight-color);
+    }
+    a.oral.btn {
+      color: #fff;
+      background-color: #dc3545;
+      border-color: #dc3545;
+
+      &:hover {
+        color: #fff;
+        background-color: #c82333;
+        border-color: #bd2130;
+      }
     }
   }
 }
