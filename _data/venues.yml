@@ -1,20 +1,16 @@
+# All venues share the same badge styling (see .publications .abbr abbr in
+# _sass/_base.scss). Add a "color" or "url" field here only to override a
+# specific venue.
 "NeurIPS":
-  color: "#00369f"
 
 "AAAI":
-  color: "#eb445f"
 
 "arXiv":
-  color: "#ff8652"
 
 "ICML":
-  color: "#267856"
 
 "KDD":
-  color: "#8e44ad"
 
 "ICLR":
-  color: "#c0392b"
 
 "ICLR Blogposts":
-  color: "#c0392b"

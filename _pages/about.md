@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am currently pursuing my undergraduate degree in applied mathematics and computer science at [HSE University](https://www.hse.ru/en/). I also work as a Research Assistant in the [HDI Lab](https://cs.hse.ru/en/iai/hdilab/).
+Hello! I am currently pursuing my master's degree in applied mathematics and computer science at [HSE University](https://www.hse.ru/en/). I also work as a Research Assistant in the [HDI Lab](https://cs.hse.ru/en/iai/hdilab/).
 
 My research interests:
 
