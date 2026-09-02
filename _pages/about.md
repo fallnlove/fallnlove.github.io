@@ -26,8 +26,4 @@ latest_posts:
 
 Hello! I am currently pursuing my master's degree in applied mathematics and computer science at [HSE University](https://www.hse.ru/en/). I also work as a Research Assistant in the [HDI Lab](https://cs.hse.ru/en/iai/hdilab/).
 
-My research interests:
-
-- Numerical linear algebra, with a focus on randomized methods
-- Zeroth-Order optimization for LLM fine-tuning
-- Generative flow networks (GFlowNets)
+My research focuses on numerical linear algebra and optimization, with applications to efficient deep learning. In particular, I am interested in matrix and tensor methods and scalable optimization algorithms.
